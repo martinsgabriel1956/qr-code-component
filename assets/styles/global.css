@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  background-color: hsl(212, 45%, 89%);
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+h4 {
+  color: hsl(218, 44%, 22%);
+}/*# sourceMappingURL=global.css.map */

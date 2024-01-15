@@ -1,0 +1,36 @@
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+main .card {
+  background: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  width: 300px;
+  padding-bottom: 2.25rem;
+  margin-bottom: 1.5rem;
+}
+main .card > .card-img-container {
+  width: 100%;
+  padding: 0.9375rem;
+}
+main .card > .card-img-container > img {
+  width: 100%;
+  border-radius: 12px;
+}
+main .card > .card-content {
+  padding: 0 1.875rem;
+  text-align: center;
+}
+main .card > .card-content > h4 {
+  font-size: 1.25rem;
+}
+main .card > .card-content > p {
+  padding-top: 1rem;
+  color: hsl(220, 15%, 55%);
+}
+main footer {
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
